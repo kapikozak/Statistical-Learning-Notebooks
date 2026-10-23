@@ -9,5 +9,5 @@ Notebooks with basic statistical learning techniques.
 ### Clustering - gaussian mixture model
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Statistical-Learning-Notebooks/blob/main/01_Clustering.ipynb)
 
-### SGD
+### SGD - manual implementation of MLP
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kapikozak/Statistical-Learning-Notebooks/blob/main/stochastic_gradient_descent_manual.ipynb)
